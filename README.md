@@ -1,7 +1,7 @@
 # brMaterials
 
 ### Sample animation files
-- 50 agents; 1000 rounds; lambda = 0.01; 200 bumps
+- 50 agents; 1000 rounds; lambda = 0.01; beta = 200 
 
 - homogeneous individual learners: alpha = 100 (sd=1)
 - homogeneous social learners: alpha = 1 (sd=1)
