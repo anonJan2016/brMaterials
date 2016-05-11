@@ -6,7 +6,7 @@
 - sm_3_adding_ruggedness.pdf
 - sm_4_adding_individuals.pdf
 
-### Ipython notebook code files 
+### IPython notebook code files 
 - EL_replication.ipynb (EL model)
 - broadcasting_may2016.ipynb (main simulation file for broadcasting model)
 - broadcasting_plots.ipynb 
